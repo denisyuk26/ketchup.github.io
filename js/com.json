@@ -1,0 +1,6 @@
+var Item ={
+"Name":"",
+"Description":"Цветная футболка разных размеров",
+"price":"1500",
+"Availability": false
+}
